@@ -13,3 +13,5 @@ app.listen(port, () => {
 app.get('/message', (req, res) => {
   res.send('🕵️ This is a secret message from the server!');
 });
+
+const welp = 124
